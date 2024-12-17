@@ -1,0 +1,10 @@
+06:31:50 **** Incremental Build of configuration Debug for project TIMPWM ****
+make -j4 all 
+arm-none-eabi-size  TIMPWM.elf 
+   text	   data	    bss	    dec	    hex	filename
+  14168	     44	   1724	  15936	   3e40	TIMPWM.elf
+Finished building: default.size.stdout
+ 
+
+06:31:52 Build Finished. 0 errors, 0 warnings. (took 1s.397ms)
+

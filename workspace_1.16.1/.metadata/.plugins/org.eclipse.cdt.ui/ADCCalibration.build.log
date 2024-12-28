@@ -1,0 +1,10 @@
+14:41:17 **** Incremental Build of configuration Debug for project ADCCalibration ****
+make -j4 all 
+arm-none-eabi-size  ADCCalibration.elf 
+   text	   data	    bss	    dec	    hex	filename
+  14108	     12	   1692	  15812	   3dc4	ADCCalibration.elf
+Finished building: default.size.stdout
+ 
+
+14:41:18 Build Finished. 0 errors, 0 warnings. (took 872ms)
+
